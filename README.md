@@ -1,4 +1,4 @@
-NANoticiationCenter
+NANotifiationCenter
 ===================
 
 A simpler Apple's NSNotificationCenter written in Java, meant for Android.
